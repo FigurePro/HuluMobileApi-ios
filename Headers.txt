@@ -1,0 +1,11 @@
+Host: auth.hulu.com
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Accept-Language: fr-fr
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+X-NewRelic-ID: VQIHUVBSCRABXVlUDwADUFw=
+User-Agent: Hulu/7.25 (iOS 14.6; en_US; iPhone8,1; 18F72)
+X-Hulu-Request-Id: E1FA312B-0459-44F7-BEF4-4C9718B3373D
+X-Hulu-User-Agent: Hulu/7.25 (iOS 14.6; en_US; iPhone8,1; 18F72)
+Content-Length: 2385

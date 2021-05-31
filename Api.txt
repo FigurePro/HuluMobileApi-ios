@@ -1,0 +1,1 @@
+https://auth.hulu.com/v1/mobile/password/authenticate?language=en&device_context_id=iOS
